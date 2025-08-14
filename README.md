@@ -34,6 +34,9 @@
 <br>
 
 ## 🔍 개발 과정
+1. [OS 설치](https://gym-developer.tistory.com/182)
+2. [서버 기본 세팅](https://gym-developer.tistory.com/183)
+3. [Nginx 설치](https://gym-developer.tistory.com/184)
 
 <br>
 
