@@ -35,8 +35,9 @@
 
 ## 🔍 개발 과정
 1. [OS 설치](https://gym-developer.tistory.com/182)
-2. [서버 기본 세팅](https://gym-developer.tistory.com/183)
-3. [Nginx 설치](https://gym-developer.tistory.com/184)
+2. [SSH, UFW, 포트포워딩](https://gym-developer.tistory.com/183)
+3. [보안 강화 및 Nginx 설치](https://gym-developer.tistory.com/184)
+4. [도메인 연결 및 HTTPS 설정](https://gym-developer.tistory.com/187)
 
 <br>
 
